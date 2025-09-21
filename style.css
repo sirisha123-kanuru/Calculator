@@ -38,6 +38,7 @@ button{
     font-weight: 600;
     color: black;
     cursor: pointer;
+    font-size: 20px;
 
 
 }
@@ -64,6 +65,7 @@ button:active{
     color: rgb(234, 117, 165);
     width: 0px;
     height: 700px;
+
 
 
 }
